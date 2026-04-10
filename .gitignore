@@ -1,6 +1,7 @@
 # Секрети
 token.env
 .env
+git_pusher.py
 
 # База даних та збережені дані
 users.json
