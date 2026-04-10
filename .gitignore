@@ -1,0 +1,13 @@
+# Секрети
+token.env
+.env
+
+# База даних та збережені дані
+users.json
+*.db
+
+# Python та оточення
+__pycache__/
+venv/
+.venv/
+.vscode/
